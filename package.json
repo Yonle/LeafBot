@@ -1,0 +1,27 @@
+{
+  "name": "leafbot",
+  "version": "0.0.0-alpha",
+  "description": "A moderation telegram bot that only does the thing that you wanted.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yonle/LeafBot.git"
+  },
+  "keywords": [
+    "telegram",
+    "slimbot",
+    "moderation",
+    "bot",
+    "robot",
+    "chatbot"
+  ],
+  "author": "Yonle <yonle@protonmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yonle/LeafBot/issues"
+  },
+  "homepage": "https://github.com/Yonle/LeafBot#readme"
+}
